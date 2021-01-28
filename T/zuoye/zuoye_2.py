@@ -11,7 +11,7 @@ class Cat (Animal):
     def __init__(self,hair):
 
         self.hair = hair
-        super().__init__("猫","黑","1岁","母")
+        super().__init__("猫","黑","1岁了","母")
 
 
 

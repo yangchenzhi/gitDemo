@@ -21,9 +21,9 @@ class Animal :
 
 
     def call (self):
-        print("我会叫")
+        print("我会叫的")
 
 
     def run (self):
-        print("我会跑")
+        print("我会跑的")
 
